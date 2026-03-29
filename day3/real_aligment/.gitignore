@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+.pytest_cache/
+.venv/
+env/
+venv/
+
+data/processed/*.fasta
+outputs/figures/*.png
+outputs/tables/*.csv
