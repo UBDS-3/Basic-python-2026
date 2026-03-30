@@ -1,0 +1,14 @@
+name: dna-protein-alignment
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - biopython>=1.83
+  - pandas>=2.2.0
+  - matplotlib>=3.8.0
+  - jupyter
+  - pytest
+  - pip
+  - pip:
+      - -e .

@@ -1,0 +1,5 @@
+biopython>=1.83
+pandas>=2.2.0
+matplotlib>=3.8.0
+pytest>=8.0.0
+jupyter>=1.0.0
