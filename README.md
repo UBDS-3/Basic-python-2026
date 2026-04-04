@@ -1,4 +1,4 @@
-#UBDS^3 2026 Basic-python-2026
+# UBDS^3 2026 Basic-python-2026
 Repo for basic Python track of UBDS^3
 
 Basic Python course for UBDS^3 2026, focusing on intro to programming, data types, dataframes, and intro to data science
