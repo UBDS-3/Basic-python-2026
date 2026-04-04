@@ -4,4 +4,4 @@ matplotlib==3.10.1
 scipy==1.15.2
 statsmodels==0.14.5
 scikit-learn==1.5.0
-seaborn==0.12.2 #optional
+seaborn==0.13.2 #optional
