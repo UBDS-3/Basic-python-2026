@@ -14,9 +14,7 @@ Basic Python course for UBDS^3 2026, focusing on intro to programming, data type
 
 ## Install all practical dependencies with uv
 
-This repository includes a shared `pyproject.toml` for all practicals. If `uv.lock`
-is present, keep it in the same folder and share it with the repository so everyone
-gets the same resolved package versions.
+This repository includes a shared `pyproject.toml` for all practicals. 
 
 ### 1. Install uv
 
