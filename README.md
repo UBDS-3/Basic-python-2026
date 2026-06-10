@@ -102,8 +102,7 @@ uv add requests
 ```
 
 `uv sync` installs everything listed in `pyproject.toml` and `uv.lock` into the
-local `.venv` environment. This is the main command students should run after
-downloading the repository.
+local `.venv` environment.
 
 ```bash
 uv sync
