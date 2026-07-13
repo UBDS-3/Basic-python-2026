@@ -12,6 +12,72 @@ Basic Python course for UBDS^3 2026, focusing on intro to programming, data type
 | 4 | Pandas & matplotlib |
 | 5 | EDA, statistics, regression - https://github.com/UBDS-3/Basic-python-2026/blob/main/day5/Day%205%20solutions.ipynb|
 
+## Repository versions
+
+- `main` contains the student-facing notebooks with outputs cleared and task-specific code chunks left for students to complete.
+- `teacher-solutions` contains the filled solution chunks for instructors.
+
+GitHub repository visibility is set at the repository level, not per branch. If this repository is public, do not push `teacher-solutions` to it. Keep the teacher branch local, or push it to a separate private repository for instructors.
+
+## Install Git
+
+Git is needed to download the course repository and switch between versions.
+
+### Windows
+
+Download and install Git for Windows from:
+
+```text
+https://git-scm.com/download/win
+```
+
+After installation, open PowerShell or Git Bash and check:
+
+```powershell
+git --version
+```
+
+### macOS
+
+With Homebrew:
+
+```bash
+brew install git
+```
+
+Without Homebrew, install Apple's command line tools:
+
+```bash
+xcode-select --install
+```
+
+Then check:
+
+```bash
+git --version
+```
+
+### Linux
+
+Ubuntu or Debian:
+
+```bash
+sudo apt update
+sudo apt install git
+```
+
+Fedora:
+
+```bash
+sudo dnf install git
+```
+
+Then check:
+
+```bash
+git --version
+```
+
 ## Install all practical dependencies with uv
 
 This repository includes a shared `pyproject.toml` for all practicals. 
