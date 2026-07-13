@@ -6,11 +6,11 @@ Basic Python course for UBDS^3 2026, focusing on intro to programming, data type
 
 | Day | Topic |
 |-----|-------|
-| 1 | Python  - variables, lists |
-| 2 | Functions, expressions, dictionary, loops |
-| 3 | Writing functions, reading errors, debugging, classes |
-| 4 | Pandas & matplotlib |
-| 5 | EDA, statistics, regression - https://github.com/UBDS-3/Basic-python-2026/blob/main/day5/Day%205%20solutions.ipynb|
+| 1 | Python - variables, lists - [notebook](day1/python_basic_day_1.ipynb) |
+| 2 | Functions, expressions, dictionary, loops - [Chapter 2](day2/Chapter%202.ipynb), [Chapter 3](day2/Chapter%203.ipynb), [Chapter 4](day2/Chapter%204.ipynb) |
+| 3 | Writing functions, reading errors, debugging, classes - [notebook](day3/Day_3.ipynb), [alignment practical](day3/real_aligment/notebooks/dna_translation_alignment.ipynb) |
+| 4 | Pandas & matplotlib - [intro notebook](day4/Intro_to_Pandas_Matplotlib.ipynb), [GFF notebook](day4/querying_gff.ipynb) |
+| 5 | EDA, statistics, regression - [notebook](day5/Day%205%20solutions.ipynb) |
 
 ## Repository versions
 
