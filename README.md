@@ -12,12 +12,6 @@ Basic Python course for UBDS^3 2026, focusing on intro to programming, data type
 | 4 | Pandas & matplotlib - [intro notebook](day4/Intro_to_Pandas_Matplotlib.ipynb), [GFF notebook](day4/querying_gff.ipynb) |
 | 5 | EDA, statistics, regression - [notebook](day5/Day%205%20solutions.ipynb) |
 
-## Repository versions
-
-- `main` contains the student-facing notebooks with outputs cleared and task-specific code chunks left for students to complete.
-- `teacher-solutions` contains the filled solution chunks for instructors.
-
-GitHub repository visibility is set at the repository level, not per branch. If this repository is public, do not push `teacher-solutions` to it. Keep the teacher branch local, or push it to a separate private repository for instructors.
 
 ## Install Git
 
